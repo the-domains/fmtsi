@@ -1,33 +1,32 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-12T16:12:13.807Z'
-dateModified: '2016-02-12T15:59:12.885Z'
+description: They know we measure our success based upon their success.
+datePublished: '2016-02-12T17:47:59.789Z'
+dateModified: '2016-02-12T17:47:46.987Z'
 title: Our Clients Appreciate FMTSI Because...
 author: []
+sourcePath: _posts/2016-02-12-our-clients-appreciate-fmtsi-because.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-our-clients-appreciate-fmtsi-because.md
-published: true
-url: our-clients-appreciate-fmtsi-because/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Our Clients Appreciate FMTSI Because...
-![Our Clients Stay With Us](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1aa1a88-09a6-4485-aac9-9d2f48d3672d.jpg)
 
 We bring only seasoned, well-rounded professionals who personally 
 understand what an organization and its people go through to succeed 
 with technology driven change.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac005a1b-292c-4219-b34b-c1816443908d.gif)
 
 Our professionals have been on the front lines as plant managers, 
 accountants or inventory clerks and know intimately what it takes to 
