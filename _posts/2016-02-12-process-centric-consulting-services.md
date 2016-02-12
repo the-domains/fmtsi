@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Assisting organizations with business process and technology integration
-datePublished: '2016-02-12T20:30:02.614Z'
-dateModified: '2016-02-12T20:25:09.138Z'
+datePublished: '2016-02-12T20:37:26.624Z'
+dateModified: '2016-02-12T20:37:18.025Z'
 title: Services
 author: []
 sourcePath: _posts/2016-02-12-process-centric-consulting-services.md
@@ -31,13 +31,13 @@ expertise in this area spans  over 15 years of assisting organizations with focu
 
 When your organization decides to make changes regarding its ERP or supply chain or customer relationship management 
 application, a host of questions and their resulting decisions will determine your ROI and ultimate success.__
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47241db5-621f-4e2d-a56e-b1c876738d05.jpg)
 
 * _How will you move all your employees from the way they do business today to the way you want them to do business tomorrow?_
 
 * _How will you communicate the vision of your newly transformed organization?_
 
 * _What strategic and tactical issues that must be addressed?_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47241db5-621f-4e2d-a56e-b1c876738d05.jpg)
 
 ## We Can Help
 
