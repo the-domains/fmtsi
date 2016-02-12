@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Assisting organizations with business process and technology integration
-datePublished: '2016-02-12T17:08:34.793Z'
-dateModified: '2016-02-12T17:08:29.137Z'
+datePublished: '2016-02-12T17:48:51.045Z'
+dateModified: '2016-02-12T17:48:47.652Z'
 title: Process-Centric Consulting Services
 author: []
 sourcePath: _posts/2016-02-12-process-centric-consulting-services.md
