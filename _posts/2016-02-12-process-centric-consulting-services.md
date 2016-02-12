@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Assisting organizations with business process and technology integration
-datePublished: '2016-02-12T20:37:26.624Z'
-dateModified: '2016-02-12T20:37:18.025Z'
+datePublished: '2016-02-12T20:40:39.252Z'
+dateModified: '2016-02-12T20:40:30.847Z'
 title: Services
 author: []
 sourcePath: _posts/2016-02-12-process-centric-consulting-services.md
@@ -37,7 +37,6 @@ application, a host of questions and their resulting decisions will determine yo
 * _How will you communicate the vision of your newly transformed organization?_
 
 * _What strategic and tactical issues that must be addressed?_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47241db5-621f-4e2d-a56e-b1c876738d05.jpg)
 
 ## We Can Help
 
@@ -47,3 +46,4 @@ We work with the C-level executive team, key middle managers, and
 teams of employees to integrate their new software applications, 
 business processes, and new work practices to ensure minimal losses in 
 productivity.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47241db5-621f-4e2d-a56e-b1c876738d05.jpg)
