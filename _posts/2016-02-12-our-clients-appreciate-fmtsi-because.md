@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: They know we measure our success based upon their success.
-datePublished: '2016-02-12T19:31:44.008Z'
-dateModified: '2016-02-12T18:44:59.762Z'
+datePublished: '2016-02-12T20:11:35.620Z'
+dateModified: '2016-02-12T20:10:25.778Z'
 title: Our Clients Appreciate FMTSI Because...
 author: []
 sourcePath: _posts/2016-02-12-our-clients-appreciate-fmtsi-because.md
