@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: Assisting organizations with business process and technology integration
-datePublished: '2016-02-12T18:47:56.019Z'
-dateModified: '2016-02-12T18:47:53.404Z'
-title: Process-Centric Consulting Services
+datePublished: '2016-02-12T20:11:22.019Z'
+dateModified: '2016-02-12T20:11:03.983Z'
+title: Services
 author: []
 sourcePath: _posts/2016-02-12-process-centric-consulting-services.md
 published: true
@@ -22,7 +22,7 @@ url: process-centric-consulting-services/index.html
 _type: WebPage
 
 ---
-# Process-Centric Consulting Services
+# Services
 
 We assist companies with business integration. Our 
 expertise in this area spans 15 years of assisting organizations with focusing on their valuable human capital while integrating their business processes with technology.
