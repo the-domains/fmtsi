@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our focus on business process makes us unique in the enterprise software consulting space.
-datePublished: '2016-02-12T23:17:04.575Z'
-dateModified: '2016-02-12T23:16:49.625Z'
+datePublished: '2016-02-12T23:30:23.808Z'
+dateModified: '2016-02-12T23:30:20.575Z'
 title: What Makes FMTSI Different?
 author: []
+sourcePath: _posts/2016-02-12-what-makes-fmtsi-different.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-what-makes-fmtsi-different.md
-published: true
 url: what-makes-fmtsi-different/index.html
 _type: Blurb
 
@@ -59,3 +59,7 @@ by both a "big picture" and detailed understanding of their role and
 its relationship to the organization's business processes and technical 
 environment. This enables them to increase their productivity and 
 improve their performance.
+
+[Home][0]
+
+[0]: https://app.thegrid.io/fmtsi
