@@ -1,0 +1,28 @@
+name: FMTSI
+favicon: null
+layout_spectrum: 0.3693311628885567
+typography_spectrum: 0.7388982996344566
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8692072459962219
+  lightness: 0.1279544502031058
+  saturation: 0.1803633589297533
+  rhythmicContrast: 0.7336216107942164
+purpose: []
