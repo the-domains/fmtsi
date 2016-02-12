@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'How to stay in touch with FMT Systems of Texas, Inc. (FMTSI)'
-datePublished: '2016-02-12T18:41:12.202Z'
-dateModified: '2016-02-12T18:40:55.637Z'
+datePublished: '2016-02-12T20:17:00.675Z'
+dateModified: '2016-02-12T20:16:52.861Z'
 title: Stay In Touch
 author: []
+sourcePath: _posts/2016-02-12-stay-in-touch.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-stay-in-touch.md
-published: true
 url: stay-in-touch/index.html
 _type: Article
 
 ---
-## Stay In Touch
+## 
 
 [Facebook][0]
 
