@@ -1,13 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Assisting organizations with business process and technology integration
-datePublished: '2016-02-12T16:16:41.051Z'
-dateModified: '2016-02-12T16:16:33.532Z'
+datePublished: '2016-02-12T16:19:33.369Z'
+dateModified: '2016-02-12T16:19:30.517Z'
 title: Process-Centric Consulting Services
 author: []
 sourcePath: _posts/2016-02-12-process-centric-consulting-services.md
@@ -18,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: process-centric-consulting-services/index.html
+_type: WebPage
 
 ---
 # Process-Centric Consulting Services
