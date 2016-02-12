@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Assisting organizations with business process and technology integration
-datePublished: '2016-02-12T17:48:51.045Z'
-dateModified: '2016-02-12T17:48:47.652Z'
+datePublished: '2016-02-12T18:47:56.019Z'
+dateModified: '2016-02-12T18:47:53.404Z'
 title: Process-Centric Consulting Services
 author: []
 sourcePath: _posts/2016-02-12-process-centric-consulting-services.md
@@ -26,10 +26,10 @@ _type: WebPage
 
 We assist companies with business integration. Our 
 expertise in this area spans 15 years of assisting organizations with focusing on their valuable human capital while integrating their business processes with technology.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47241db5-621f-4e2d-a56e-b1c876738d05.jpg)
 
 When your organization decides to make changes regarding its ERP or supply chain or customer relationship management 
 application, a host of questions and their resulting decisions will determine your ROI and ultimate success.__
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47241db5-621f-4e2d-a56e-b1c876738d05.jpg)
 
 * _How will you move all your employees from the way they do business today to the way you want them to do business tomorrow?_
 
