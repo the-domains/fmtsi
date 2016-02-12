@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: How to navigate our site and stay in touch with FMTSI
-datePublished: '2016-02-12T18:41:25.337Z'
-dateModified: '2016-02-12T18:34:48.338Z'
-title: Basic Information
+datePublished: '2016-02-12T20:17:40.378Z'
+dateModified: '2016-02-12T20:17:29.915Z'
+title: Navigation
 author: []
 sourcePath: _posts/2016-02-12-basic-information.md
 published: true
@@ -22,7 +22,7 @@ url: basic-information/index.html
 _type: Article
 
 ---
-## Navigation
+## 
 
 [About Us][0]
 
