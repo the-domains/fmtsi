@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Assisting organizations with business process and technology integration
-datePublished: '2016-02-12T20:19:13.417Z'
-dateModified: '2016-02-12T20:19:04.062Z'
+datePublished: '2016-02-12T20:30:02.614Z'
+dateModified: '2016-02-12T20:25:09.138Z'
 title: Services
 author: []
 sourcePath: _posts/2016-02-12-process-centric-consulting-services.md
@@ -25,7 +25,9 @@ _type: WebPage
 # Services
 
 We assist companies with business process focused system integration. Our 
-expertise in this area spans 15 years of assisting organizations with focusing on their valuable human capital while integrating their business processes with technology.
+expertise in this area spans  over 15 years of assisting organizations with focusing on their valuable human capital while integrating their business processes with technology.
+
+## Organizational Change Challenges
 
 When your organization decides to make changes regarding its ERP or supply chain or customer relationship management 
 application, a host of questions and their resulting decisions will determine your ROI and ultimate success.__
@@ -37,7 +39,9 @@ application, a host of questions and their resulting decisions will determine yo
 
 * _What strategic and tactical issues that must be addressed?_
 
-FMT Systems works with you and your organization to help make that new vision a reality.
+## We Can Help
+
+FMTSI works with you and your organization to help make that new vision a reality.
 
 We work with the C-level executive team, key middle managers, and 
 teams of employees to integrate their new software applications, 
