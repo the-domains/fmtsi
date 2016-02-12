@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How to navigate our site and stay in touch with FMTSI
-datePublished: '2016-02-12T20:17:40.378Z'
-dateModified: '2016-02-12T20:17:29.915Z'
+datePublished: '2016-02-12T23:21:55.958Z'
+dateModified: '2016-02-12T23:21:47.748Z'
 title: Navigation
 author: []
 sourcePath: _posts/2016-02-12-basic-information.md
@@ -22,14 +22,15 @@ url: basic-information/index.html
 _type: Article
 
 ---
-## 
-
 [About Us][0]
 
-[Services][1]
+[How Is FMTSI Different][1]
 
-[Contact Us][2]
+[Services][2]
+
+[Contact Us][3]
 
 [0]: http://thegrid.ai/fmtsi/about-us/? target=new
-[1]: http://thegrid.ai/fmtsi/process-centric-consulting-services/?target=
-[2]: http://thegrid.ai/fmtsi/contact-us/?target=
+[1]: https://thegrid.ai/fmtsi/what-makes-fmtsi-different/
+[2]: http://thegrid.ai/fmtsi/process-centric-consulting-services/?target=
+[3]: http://thegrid.ai/fmtsi/contact-us/?target=
