@@ -6,34 +6,30 @@ inLanguage: null
 starred: false
 keywords: []
 description: How to navigate our site and stay in touch with FMTSI
-datePublished: '2016-02-12T18:32:38.658Z'
-dateModified: '2016-02-12T18:32:07.831Z'
+datePublished: '2016-02-12T18:41:25.337Z'
+dateModified: '2016-02-12T18:34:48.338Z'
 title: Basic Information
 author: []
+sourcePath: _posts/2016-02-12-basic-information.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-basic-information.md
-published: true
 url: basic-information/index.html
 _type: Article
 
 ---
-## Navigation                  Stay in touch
+## Navigation
 
-[About Us][0][Facebook][1][][0]
+[About Us][0]
 
-[Services][2][Twitter][3][][2]
+[Services][1]
 
-Our Team
-
-[Contact Us][4]
+[Contact Us][2]
 
 [0]: http://thegrid.ai/fmtsi/about-us/? target=new
-[1]: https://www.facebook.com/fmtsystems
-[2]: http://thegrid.ai/fmtsi/process-centric-consulting-services/?target=
-[3]: https://twitter.com/FMTSystems?target=
-[4]: http://thegrid.ai/fmtsi/contact-us/?target=
+[1]: http://thegrid.ai/fmtsi/process-centric-consulting-services/?target=
+[2]: http://thegrid.ai/fmtsi/contact-us/?target=
