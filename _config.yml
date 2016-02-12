@@ -1,7 +1,7 @@
 name: FMTSI
 favicon: null
-layout_spectrum: 0.93984
-typography_spectrum: 0.45576
+layout_spectrum: 0.27652
+typography_spectrum: 0.7799
 title: 'Welcome To FMT Systems of Texas, Inc.'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#9b9b9b'
-    - '#d7d8d9'
-    - '#3a3b3b'
+    - '#b4a594'
+    - '#493c45'
+    - '#0c0b0c'
+    - '#947c65'
+    - '#ecebec'
   brandStrength: 0.75
   lightness: 0.6875
   saturation: 0
