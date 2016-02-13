@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: They know we measure our success based upon their success.
-datePublished: '2016-02-12T23:25:53.416Z'
-dateModified: '2016-02-12T23:25:51.075Z'
+datePublished: '2016-02-13T00:49:12.655Z'
+dateModified: '2016-02-13T00:49:07.301Z'
 title: Our Clients Appreciate FMTSI Because...
 author: []
 sourcePath: _posts/2016-02-12-our-clients-appreciate-fmtsi-because.md
@@ -35,4 +35,4 @@ change. FMTSI project managers andconsultants understand the subtle issues that
 companies and their people must adapt to when their business 
 environment changes.
 
-[0]: https://thegrid.ai/fmtsi/what-makes-fmtsi-different/
+[0]: http://fmtsystems.com/what-makes-fmtsi-different/
