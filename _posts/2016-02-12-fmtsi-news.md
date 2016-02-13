@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'News about FMTSI presentations, press releases, blog posts, and speaking engagements.'
-datePublished: '2016-02-12T23:51:35.884Z'
-dateModified: '2016-02-12T23:51:20.033Z'
+datePublished: '2016-02-13T02:15:43.745Z'
+dateModified: '2016-02-13T02:15:40.809Z'
 title: FMTSI News
 author: []
+sourcePath: _posts/2016-02-12-fmtsi-news.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-fmtsi-news.md
-published: true
 url: fmtsi-news/index.html
 _type: WebPage
 
@@ -40,7 +40,7 @@ _type: WebPage
 
 [Is The Challenge Culture or Behavior Change?][6]
 
-Press Releases
+## [Press Releases][7]
 
 Presentations and Speaking Engagements
 
@@ -51,3 +51,4 @@ Presentations and Speaking Engagements
 [4]: https://www.linkedin.com/pulse/20140910132108-540828-why-apple-s-watch-announcement-is-uninteresting
 [5]: https://www.linkedin.com/pulse/20140904153759-540828-facing-our-fear-of-the-other
 [6]: https://www.linkedin.com/pulse/20140828165643-540828-is-the-challenge-culture-or-behavior-change
+[7]: http://fmtsystems.com/press-releases/
