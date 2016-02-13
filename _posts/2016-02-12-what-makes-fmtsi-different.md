@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our focus on business process makes us unique in the enterprise software consulting space.
-datePublished: '2016-02-12T23:30:23.808Z'
-dateModified: '2016-02-12T23:30:20.575Z'
+datePublished: '2016-02-13T00:47:16.278Z'
+dateModified: '2016-02-13T00:47:06.884Z'
 title: What Makes FMTSI Different?
 author: []
 sourcePath: _posts/2016-02-12-what-makes-fmtsi-different.md
